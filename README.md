@@ -51,6 +51,7 @@ Most Succesful Players with good statistics in IPL History:
 - PP Chawla
 - SP Narine
 - B Kumar
+- DW Steyn
 - GJ Maxwell
 - SR Watson
 - Bravo
