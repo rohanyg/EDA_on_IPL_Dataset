@@ -26,7 +26,7 @@ In the initial data preparation phase, several tasks were performed to ensure ac
 - Created derived dataframe for better analysis.
 
 ### Exploratory Data Analysis
-Conducted analysis on various aspects of IPL data such as matches ,toss, batting, bowling, fielding and venue. Utilized visualizations like bar charts and piechart to represent findings effectively.
+Conducted analysis on various aspects of IPL data such as matches ,toss, batting, bowling, fielding and venue. Explored the Correlation between these aspects. Utilized visualizations like bar charts and piechart to represent findings effectively.
 
 ### Key Findings
 
