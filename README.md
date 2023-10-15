@@ -54,7 +54,7 @@ Bowling Analysis:
 - Identified the top bowlers by wickets, strike rates, averages,dotball percentage and economy rates.
   
 Season 2019 Analysis:
-- Conducted analysis on above mentioned KPIs separately for 2019 season to understand players who performed good in whole IPL is also performing good in this last season.
+- Conducted analysis on above mentioned KPIs separately for 2019 season to understand players who performed good throughout IPL is also performing good in this last season.
   
 Factors Influencing Win:
 
