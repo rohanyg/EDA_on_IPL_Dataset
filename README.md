@@ -25,6 +25,8 @@ In the initial data preparation phase, several tasks were performed to ensure ac
 - Removed irrelevant columns.
 - Created derived dataframe for better analysis.
 
+![IPL_img](https://github.com/rohanyg/EDA_on_IPL_Dataset/assets/136742005/5eb95369-d611-4bd5-b1fe-2873e5e251c6)
+
 ### Exploratory Data Analysis
 Conducted analysis on various aspects of IPL data such as matches ,toss, batting, bowling, fielding and venue. Explored the Correlation between these aspects. Utilized visualizations like bar charts and piechart to represent findings effectively. 
 
